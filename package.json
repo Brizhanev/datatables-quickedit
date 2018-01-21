@@ -1,0 +1,16 @@
+{
+  "name": "datatables-quickedit",
+  "version": "1.0.0",
+  "description": "Provides quick edition of the items in a DataTable",
+  "main": "dataTables.quickEdit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "DataTable",
+    "quickEdit"
+  ],
+  "author": "Brizhanev Oleg",
+  "license": "MIT"
+}
