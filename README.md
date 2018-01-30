@@ -1,6 +1,6 @@
 # datatables-quickedit
 
-Плагин для JQuery Datatables, позволяет изменять содержимое ячеек в таблице и выполнять какие-либо действия с измененными данными.
+Plugin for JQuery Datatables, allows you to change the contents of cells in the table and perform any actions with the changed data.
 
 ## Installation
 
