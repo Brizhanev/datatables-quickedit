@@ -1,6 +1,6 @@
 {
   "name": "datatables-quickedit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides quick edition of the items in a DataTable",
   "main": "dataTables.quickEdit.js",
   "scripts": {
