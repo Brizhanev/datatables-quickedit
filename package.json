@@ -1,6 +1,6 @@
 {
   "name": "datatables-quickedit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides quick edition of the items in a DataTable",
   "main": "dataTables.quickEdit.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Brizhanev Oleg",
   "license": "MIT",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/Brizhanev/datatables-quickedit.git"
+    "type": "git",
+    "url": "https://github.com/Brizhanev/datatables-quickedit.git"
   }
 }
