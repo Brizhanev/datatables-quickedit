@@ -19,7 +19,7 @@ import 'datatables.net-dt/css/jquery.dataTables.css';
 import 'datatables-quickedit/js/dataTables.quickEdit.js';
 ```
 
-### Direct <script> Include
+### Direct &lt;script&gt; Include
 
 ```html
 <!-- Jquery Datatables -->
